@@ -1,2 +1,2 @@
 # BICES-PROJECT
-Projecto BICES
+Proyecto BICES
